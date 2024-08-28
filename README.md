@@ -67,6 +67,12 @@ Three methods were employed to assess correlations:
 2. **Kendall's Tau**: Assesses the strength of dependence between variables based on ranks.
 3. **Spearman's Rank Correlation**: Evaluates how well the relationship between two variables can be described by a monotonic function.
 
+#### CORRELATION MATRIC FOR EXISTING NUMERIC COLUMNS (Runtime, Gross, Budget, Votes, Score, Year)
+![Scatterplot: Budget vs Gross Earning](Images/Corelation-matrix-(Numeric-Columns).png)
+
+#### CORRELATION MATRIC AGAINST ALL THE COLUMNS
+![Scatterplot: Budget vs Gross Earning](Images/Matrix-All-columns.png)
+
 ## Conclusion
 
 The analysis concludes that there is a positive correlation between a movie's budget and its gross earnings, indicating that higher budgets often lead to higher gross revenues.
