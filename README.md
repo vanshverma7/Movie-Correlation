@@ -62,10 +62,12 @@ The dataset used in this analysis is stored in a CSV file named `Movies Data.csv
 
 ### Correlation Analysis
 
-Three methods were employed to assess correlations:
+Three methods can be employed to assess correlations:
 1. **Pearson Correlation**: Measures linear relationships between variables.
 2. **Kendall's Tau**: Assesses the strength of dependence between variables based on ranks.
 3. **Spearman's Rank Correlation**: Evaluates how well the relationship between two variables can be described by a monotonic function.
+
+- In our project, we've utilized the Kendall's Tau method to compute correlation.
 
 #### CORRELATION MATRIC FOR EXISTING NUMERIC COLUMNS (Runtime, Gross, Budget, Votes, Score, Year)
 ![Scatterplot: Budget vs Gross Earning](Images/Corelation-matrix-(Numeric-Columns).png)
