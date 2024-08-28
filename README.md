@@ -49,7 +49,7 @@ The dataset used in this analysis is stored in a CSV file named `Movies Data.csv
 - Missing values were checked and appropriate data types were assigned to relevant columns.
 - A new column `year` was created by extracting the year from the `released` column.
 
-### Visualizations
+## Visualizations
 
 #### ScatterPlot using Matplotlib
 
