@@ -52,7 +52,7 @@ The dataset used in this analysis is stored in a CSV file named `Movies Data.csv
 ## Visualizations
 
 #### ScatterPlot using Matplotlib
-
+![Scatterplot: Budget vs Gross Earning](image/Scatterplot%20Budget%20vs%20Gross%20Earning.png)
 - Scatter plots and regression plots were used to visualize the relationship between movie budgets and gross earnings.
 
 #### ScatterPlot using Seaborn
