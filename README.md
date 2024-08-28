@@ -51,8 +51,14 @@ The dataset used in this analysis is stored in a CSV file named `Movies Data.csv
 
 ### Visualizations
 
+#### ScatterPlot using Matplotlib
+
 - Scatter plots and regression plots were used to visualize the relationship between movie budgets and gross earnings.
+
+#### ScatterPlot using Seaborn
+
 - Positive correlation was observed between budget and gross earnings.
+
 
 ### Correlation Analysis
 
