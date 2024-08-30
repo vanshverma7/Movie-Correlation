@@ -70,10 +70,10 @@ Three methods can be employed to assess correlations:
 - In our project, we've utilized the Kendall's Tau method to compute correlation.
 
 #### CORRELATION MATRIC FOR EXISTING NUMERIC COLUMNS (Runtime, Gross, Budget, Votes, Score, Year)
-![Scatterplot: Budget vs Gross Earning](Images/Corelation-matrix-(Numeric-Columns).png)
+![Scatterplot: Budget vs Gross Earning](Images/CORRELATION_MATRIX.png)
 
 #### CORRELATION MATRIC AGAINST ALL THE COLUMNS
-![Scatterplot: Budget vs Gross Earning](Images/Matrix-All-columns.png)
+![Scatterplot: Budget vs Gross Earning](Images/CRM_ALLCOLUMNS.png)
 
 ## Conclusion
 
